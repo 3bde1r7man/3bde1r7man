@@ -1,7 +1,7 @@
 ## Hello 👋 I'm Abdelrhman 
 
-### Student at Faculty of Computers and Artificial Intelligence - Cairo University
-- 🌱 I’m currently learning Game development with Unreal engine
+### CS-Student at Faculty of Computers and Artificial Intelligence - Cairo University
+- 🌱 I’m currently learning Software Testing
 - 📫 How to reach me: abdelrhman.m.hessain@gmail.com
 
 <h3 align="left">Connect with me:</h3>
