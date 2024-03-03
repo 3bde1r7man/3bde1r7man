@@ -86,11 +86,11 @@
 ## GitHub Stats
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3bde1r7man&show_icons=true&locale=en&layout=compact&theme=dark" alt="3bde1r7man"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3bde1r7man&show_icons=true&locale=en&layout=compact&theme=dracula" alt="3bde1r7man"/>
 </p>
 <p>
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3bde1r7man&show_icons=true&locale=en&theme=dark" alt="3bde1r7man" />
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3bde1r7man&show_icons=true&locale=en&theme=dracula" alt="3bde1r7man" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3bde1r7man&theme=dark" alt="3bde1r7man" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3bde1r7man&theme=dracula" alt="3bde1r7man" />
 </p>
