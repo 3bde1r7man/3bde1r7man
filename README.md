@@ -23,6 +23,10 @@
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
         <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> 
     </a>
+    <!-- C# -->
+    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=cs" alt="cSharp" width="40" height="40"/> 
+    </a>
     <!-- java -->
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> 
@@ -50,6 +54,10 @@
     <!-- spring boot -->
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
         <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> 
+    </a>
+    <!-- DotNet Core -->
+    <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=dotnet" alt="DotNet" width="40" height="40"/> 
     </a>
     <!-- sql server -->
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
