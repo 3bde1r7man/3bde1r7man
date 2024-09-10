@@ -1,11 +1,11 @@
 ## Hello 👋, I'm Abdelrhman Mostafa
 ### CS-Student at Faculty of Computers and Artificial Intelligence - Cairo University
-- 🌱 I’m currently learning Software Testing
+- 🌱 I’m currently learning Software Testing & Back-end using .Net
 - 📫 How to reach me: abdelrhman.m.hessain@gmail.com
 
 ## Connect with me:
 
-<a href="https://twitter.com/3bde1r7man" target="blank">
+<a href="https://x.com/3bde1r7man" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3bde1r7man" height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/3bde1r7man" target="blank">
@@ -13,7 +13,7 @@
 </a>
 
 
-## Languages
+## Programming Languages
 <p align="left">
     <!-- C -->
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -35,6 +35,19 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
     </a>
+    <!-- golang -->
+    <a href="https://golang.org" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/>
+    </a>
+    <!-- javascript -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>
+    </a>
+</p>
+
+## Web Technologies
+
+<p align="left">
     <!-- html -->
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/> 
@@ -42,10 +55,6 @@
     <!-- css -->
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/> 
-    </a>
-    <!-- javascript -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>
     </a>
     <!-- django -->
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
@@ -59,6 +68,10 @@
     <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
         <img src="https://skillicons.dev/icons?i=dotnet" alt="DotNet" width="40" height="40"/> 
     </a>
+    
+## Databases
+
+ <p align="left">   
     <!-- sql server -->
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"> 
@@ -67,29 +80,35 @@
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
     </a>
+    <!-- mysql -->
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=mysql" alt="sqlite" width="40" height="40"/> 
+    </a>
 </p>
 
 ## Tools
-<!-- git -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> 
-</a>
-<!-- vs code -->
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/> 
-</a>
-<!-- mvs -->
-<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="40" height="40"/> 
-</a> 
-<!-- postman -->
-<a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
-</a>
-<!-- unreal -->
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/> 
+ <p align="left">   
+    <!-- git -->
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> 
     </a>
+    <!-- vs code -->
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/> 
+    </a>
+    <!-- mvs -->
+    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="40" height="40"/> 
+    </a> 
+    <!-- postman -->
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
+    </a>
+    <!-- unreal -->
+    <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/> 
+    </a>
+</p>
 
 ## GitHub Stats
 
