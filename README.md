@@ -5,9 +5,6 @@
 
 ## Connect with me:
 
-<a href="https://x.com/3bde1r7man" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3bde1r7man" height="30" width="40" />
-</a>
 <a href="https://linkedin.com/in/3bde1r7man" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="3bde1r7man" height="30" width="40" />
 </a>
