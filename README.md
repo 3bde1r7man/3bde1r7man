@@ -32,10 +32,6 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
     </a>
-    <!-- golang -->
-    <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/>
-    </a>
     <!-- javascript -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>
