@@ -32,6 +32,10 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
     </a>
+    <!-- php -->
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/>
+    </a>
     <!-- javascript -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>
@@ -49,10 +53,6 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/> 
     </a>
-    <!-- django -->
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> 
-    </a>
     <!-- spring boot -->
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
         <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> 
@@ -61,7 +61,11 @@
     <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
         <img src="https://skillicons.dev/icons?i=dotnet" alt="DotNet" width="40" height="40"/> 
     </a>
-    
+    <!-- Laravel -->
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>
+    </a>
+
 ## Databases
 
  <p align="left">   
