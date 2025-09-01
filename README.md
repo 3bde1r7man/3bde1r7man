@@ -1,6 +1,6 @@
 ## Hello 👋, I'm Abdelrhman Mostafa
-### CS-Student at Faculty of Computers and Artificial Intelligence - Cairo University
-- 🌱 I’m currently learning Back-end using .Net
+### CS Fresh Gradute from Faculty of Computers and Artificial Intelligence - Cairo University
+- 🌱 I’m currently learning ASP.Net Framework
 - 📫 How to reach me: abdelrhnnan@gmail.com
 
 ## Connect with me:
@@ -8,6 +8,10 @@
 <a href="https://linkedin.com/in/3bde1r7man" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="3bde1r7man" height="30" width="40" />
 </a>
+
+## 📄 My CV  
+[Abdelrhman Mostafa - CV](https://drive.google.com/file/d/1HDjAVYD3rj3uE-rfzaHoxQTDiag74c5L/view?usp=drive_link)
+
 
 
 ## Programming Languages
