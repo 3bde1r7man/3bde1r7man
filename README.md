@@ -9,11 +9,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="3bde1r7man" height="30" width="40" />
 </a>
 
-## 📄 My CV  
-[Abdelrhman Mostafa - CV](https://drive.google.com/file/d/1HDjAVYD3rj3uE-rfzaHoxQTDiag74c5L/view?usp=drive_link)
-
-
-
 ## Programming Languages
 <p align="left">
     <!-- C -->
