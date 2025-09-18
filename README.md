@@ -111,9 +111,7 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bde1r7man&hide_border=true&theme=tokyonight" alt="Top Languages" width="24%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=3bde1r7man&hide_border=true&theme=tokyo-night" width="66%">
-    <br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=3bde1r7man&hide_border=true&theme=tokyonight" alt="Streak Stats" width="47%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=3bde1r7man&hide_border=true&theme=tokyonight" alt="Streak Stats" width="43%"/> </p>
-    </br>
+    <br>
     <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3bde1r7man&row=2&column=4&theme=onedark" alt="3bde1r7man" width="40%" />
 </p>
