@@ -109,7 +109,7 @@
 ## GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bde1r7man&hide_border=true&theme=tokyonight" alt="Top Languages" width="24%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=3bde1r7man&theme=tokyonight" alt="Top Languages" width="24%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=3bde1r7man&hide_border=true&theme=tokyo-night" width="66%">
     <br>
     <p align="center">
