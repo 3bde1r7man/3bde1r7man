@@ -113,5 +113,5 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=3bde1r7man&hide_border=true&theme=tokyo-night" width="66%">
     <br>
     <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3bde1r7man&row=2&column=4&theme=onedark" alt="3bde1r7man" width="40%" />
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=3bde1r7man&row=2&column=4&theme=onedark" alt="3bde1r7man" width="40%" />
 </p>
