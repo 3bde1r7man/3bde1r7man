@@ -1,117 +1,25 @@
-## Hello 👋, I'm Abdelrhman Mostafa
-### CS Fresh Gradute from Faculty of Computers and Artificial Intelligence - Cairo University
-- 🌱 I’m currently learning ASP.Net Framework
-- 📫 How to reach me: abdelrhnnan@gmail.com
+<h1 align="center">Hi 👋, I'm Abdelrhman Mostafa</h1>
+<h3 align="center">ASP.NET Backend Developer</h3>
 
-## Connect with me:
+## 👨‍💻 About Me
 
-<a href="https://linkedin.com/in/3bde1r7man" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="3bde1r7man" height="30" width="40" />
-</a>
+Computer Science graduate from the **Faculty of Computers and Artificial Intelligence, Cairo University**, specializing in **ASP.NET backend development**. I enjoy building scalable, maintainable systems and care about clean code, solid database design, and sound architecture.
 
-## Programming Languages
-<p align="left">
-    <!-- C -->
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> 
-    </a>
-    <!-- C++ -->
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> 
-    </a>
-    <!-- C# -->
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=cs" alt="cSharp" width="40" height="40"/> 
-    </a>
-    <!-- java -->
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> 
-    </a>
-    <!-- python -->
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
-    </a>
-    <!-- php -->
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/>
-    </a>
-    <!-- javascript -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>
-    </a>
-</p>
+- 💻 Focused on **ASP.NET Core Backend Development**
+- 🏗️ Passionate about **Clean Architecture** and **Database Design**
+- 🚀 Currently building a **microservices project** to deepen my .NET and system design skills
+- 📫 Reach me at **abdelrhnnan@gmail.com**
 
-## Web Technologies
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/3bde1r7man/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelrhnnan@gmail.com) 
 
-<p align="left">
-    <!-- html -->
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/> 
-    </a>
-    <!-- css -->
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/> 
-    </a>
-    <!-- spring boot -->
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> 
-    </a>
-    <!-- DotNet Core -->
-    <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=dotnet" alt="DotNet" width="40" height="40"/> 
-    </a>
-    <!-- Laravel -->
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>
-    </a>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
 
-## Databases
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=3bde1r7man&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=3bde1r7man&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=3bde1r7man&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
- <p align="left">   
-    <!-- sql server -->
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"> 
-    </a>
-    <!-- sqlite -->
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-    </a>
-    <!-- mysql -->
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=mysql" alt="sqlite" width="40" height="40"/> 
-    </a>
-</p>
-
-## Tools
- <p align="left">   
-    <!-- git -->
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> 
-    </a>
-    <!-- vs code -->
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/> 
-    </a>
-    <!-- mvs -->
-    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="40" height="40"/> 
-    </a> 
-    <!-- postman -->
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
-    </a>
-    <!-- unreal -->
-    <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/> 
-    </a>
-</p>
-
-## GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=3bde1r7man&theme=tokyonight" alt="Top Languages" width="24%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=3bde1r7man&hide_border=true&theme=tokyo-night" width="66%">
-    <br>
-    <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=3bde1r7man&row=2&column=4&theme=onedark" alt="3bde1r7man" width="40%" />
-</p>
+## 🏆 GitHub Trophies
+![](https://trophygithubreadmelang.cybee.dpdns.org/?username=3bde1r7man&row=2&column=4&theme=onedark)
